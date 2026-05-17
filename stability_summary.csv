@@ -1,0 +1,4 @@
+Condition,A0_fit,k_fit (mo⁻¹),k_SE,R²,t½ (months),t_spec (months),Shelf_life_ICH_Q1E (months),Meets 24-mo spec
+Accelerated (40°C/75% RH),99.82,0.01783,0.000564,0.9971,38.9,5.8,5.5,NO
+Intermediate (30°C/65% RH),99.81,0.00636,0.000187,0.9974,109.0,16.3,15.5,NO
+Long-term (25°C/60% RH),100.137,0.00368,0.000106,0.9959,188.6,29.0,27.8,YES
