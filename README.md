@@ -14,6 +14,9 @@ using first-order degradation kinetics, Arrhenius extrapolation, and ICH Q1E
 - Arrhenius extrapolation across temperature conditions
 - Interactive Plotly dashboard
 
+## Results
+![Stability Analysis](stability_analysis.png)
+
 ## Tools
 Python · pandas · numpy · scipy · matplotlib · plotly
 
